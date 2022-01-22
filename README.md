@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+　　Seeing is believing.眼见为实。 —英语谚语 👋
 
 <!--
 **hblutao1988z/hblutao1988z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
